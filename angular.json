@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "employeemanagerapp"
+  "defaultProject": "employeemanagerapp",
+  "cli": {
+    "analytics": "0a7a9436-3719-4ba7-b593-2f3fc0b663e3"
+  }
 }
